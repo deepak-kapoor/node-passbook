@@ -1,14 +1,14 @@
-{ "name": "passbook",
+{ "name": "pass-maker",
   "description": "iOS Passbook for the Node hacker",
-  "homepage": "https://github.com/assaf/node-passbook",
-  "version": "2.1.1",
+  "homepage": "https://github.com/deepak-kapoor/pass-maker",
+  "version": "1.0.0",
   "author": {
-    "name": "Assaf Arkin",
-    "email": "assaf@labnotes.org"
+    "name": "Deepak Kapoor",
+    "email": "kapoordeepak@gmail.com"
   },
   "main": "./lib/index.js",
   "bin": {
-    "node-passbook": "./bin/node-passbook"
+    "pass-maker": "./bin/pass-maker"
   },
   "dependencies": {
     "async": "^0.9.0",
@@ -23,19 +23,18 @@
   "keywords": [
     "iOS",
     "apple",
-    "passbook",
     "library"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/assaf/node-passbook.git"
+    "url": "git://github.com/deepak-kapoor/pass-maker.git"
   },
   "bugs": {
-    "url": "http://github.com/assaf/node-passbook/issues"
+    "url": "http://github.com/deepak-kapoor/pass-maker/issues"
   },
   "licenses": [
     { "type": "MIT",
-      "url": "http://github.com/assaf/node-passbook/blob/master/MIT-LICENSE"
+      "url": "http://github.com/deepak-kapoor/pass-maker/blob/master/MIT-LICENSE"
     }
   ]
 }
